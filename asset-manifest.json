@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bala201.github.io/temperature-control/static/css/main.0d46a9d6.chunk.css",
+    "main.js": "/bala201.github.io/temperature-control/static/js/main.50abd2c5.chunk.js",
+    "main.js.map": "/bala201.github.io/temperature-control/static/js/main.50abd2c5.chunk.js.map",
+    "runtime-main.js": "/bala201.github.io/temperature-control/static/js/runtime-main.be2a7a62.js",
+    "runtime-main.js.map": "/bala201.github.io/temperature-control/static/js/runtime-main.be2a7a62.js.map",
+    "static/js/2.d58fb494.chunk.js": "/bala201.github.io/temperature-control/static/js/2.d58fb494.chunk.js",
+    "static/js/2.d58fb494.chunk.js.map": "/bala201.github.io/temperature-control/static/js/2.d58fb494.chunk.js.map",
+    "index.html": "/bala201.github.io/temperature-control/index.html",
+    "static/css/main.0d46a9d6.chunk.css.map": "/bala201.github.io/temperature-control/static/css/main.0d46a9d6.chunk.css.map",
+    "static/js/2.d58fb494.chunk.js.LICENSE.txt": "/bala201.github.io/temperature-control/static/js/2.d58fb494.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be2a7a62.js",
+    "static/js/2.d58fb494.chunk.js",
+    "static/css/main.0d46a9d6.chunk.css",
+    "static/js/main.50abd2c5.chunk.js"
+  ]
+}
